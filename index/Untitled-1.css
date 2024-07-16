@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+
+.maha_eka{
+
+    color:tomato;
+    text-shadow: 20cm;
+    box-shadow: turquoise;
+}
+
+#kalu {
+
+    color: blue;
+}
